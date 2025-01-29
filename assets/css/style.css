@@ -22,6 +22,10 @@ body {
     margin-bottom: 15px;
 }
 
+.colorazul{
+    background-color: #ADD8E6;
+}
+
 h1 {
     font-size: 2.5rem;
     color: black;
